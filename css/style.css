@@ -94,7 +94,6 @@ h3 {
 
 h1 {
     font-size: clamp(20px, 100px, 100vw); /* min-size, preferred-size, max-size */
-    ;
     margin: 10px;
     font-weight: normal;
 }
