@@ -177,3 +177,8 @@ a {
     }
 }
 
+.rain {
+            position: fixed; overflow: hidden;
+            inset: 0; z-index: -999; opacity: 0.5;
+            pointer-events: none;
+        }

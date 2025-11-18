@@ -1,9 +1,22 @@
+/* christmas event */
+body.default {
+    background-image: url("/img/bgrchristmas1.png"),url("/img/bgrchristmas2.png");
+    background-color: #5D67A3;
+    background-size: 100vmax, 100vmax;
+    background-repeat: no-repeat, repeat;
+    background-position: 0 0, 0 184vmax;
+
+    .topnav {background-color: rgb(37, 113, 184)}
+}
+
+/* normal version
 body.default {
     background-image: url("https://ctrhome.github.io/img/bgr.webp"),url("https://ctrhome.github.io/img/bgr2.webp");
     background-color: #5D67A3;
     background-size: 100vmax, 100vmax;
     background-repeat: no-repeat, repeat;
-}
+} 
+*/
 
 body.candyflick {
     background-image: url("https://ctrhome.github.io/img/bg-orange.jpg"),url("https://ctrhome.github.io/img/bg-orange.jpg");
@@ -16,20 +29,10 @@ body.experiments {
     background-color: #1177EA;
     background-size: 100vw;
     background-repeat: repeat;
-}
 
-.holidaygiftbg {
-    background-image: url("https://ctrhome.github.io/img/holidaybg.webp");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -100;
+    .topnav {
+    background-color: rgb(9, 54, 150);
+}
 }
 
 body.timetravel {
@@ -76,4 +79,26 @@ body.timetravel {
     width: 100%;
     height: 100%;
     z-index: -100;
+}
+
+body.magic {
+    background-color: black;
+
+    .topnav {background-color: rgb(54, 13, 100)}
+}
+
+body.ctr2 {
+    background-color: black;
+
+    .topnav {background-color: rgb(13, 100, 17)}
+}
+
+body.holidaygift {
+    background-image: url("/img/bgrchristmas1.png"),url("/img/bgrchristmas2.png");
+    background-color: #5D67A3;
+    background-size: 100vmax, 100vmax;
+    background-repeat: no-repeat, repeat;
+    background-position: 0 0, 0 184vmax;
+
+    .topnav {background-color: rgb(37, 113, 184)}
 }
