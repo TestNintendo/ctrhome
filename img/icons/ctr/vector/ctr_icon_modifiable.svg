@@ -22,15 +22,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="270.11479"
-     inkscape:cy="251.02291"
+     inkscape:zoom="1"
+     inkscape:cx="263"
+     inkscape:cy="284.5"
      inkscape:window-width="1280"
      inkscape:window-height="961"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg130" /><defs
+     inkscape:current-layer="g17" /><defs
      id="defs40"><linearGradient
        id="linearGradient96"
        inkscape:collect="always"><stop
@@ -340,7 +340,17 @@
          class="s0"
          inkscape:label="Icon Clip"
          d="M 96.670238,0.0097 C 43.280238,0.0097 0,43.289515 0,96.669504 V 450.32996 c 0,53.39 43.279815,96.67024 96.659804,96.67024 H 450.33069 c 53.37999,0 96.65981,-43.28024 96.65981,-96.67024 V 96.669504 C 546.9905,43.289515 503.71026,0.0097 450.32026,0.0097 Z"
-         sodipodi:nodetypes="sssssssss" /></clipPath></defs><style
+         sodipodi:nodetypes="sssssssss" /></clipPath><filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1"
+       x="-0.20767527"
+       y="-0.16661078"
+       width="1.4153505"
+       height="1.3332216"><feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="19.321991"
+         id="feGaussianBlur1" /></filter></defs><style
      id="style40">
 		.s0 { fill: #fffeb6 } 
 		.s1 { opacity: .4;fill: url(#g1) } 
@@ -447,6 +457,12 @@
            id="path47"
            class="s8"
            d="m 541.51,482.46 -131.57,-26.99 0.43,1.92 126.08,36.81 q 0.24,-0.46 0.48,-0.93 2.61,-5.23 4.58,-10.81 z" /></g></g><path
+       id="path1"
+       class="s9"
+       d="m 414.62,101.72 c -76.76,0 -139,62.29996 -139,139.15996 0,76.86 62.24,139.17004 139,139.17004 61.94,0 84.29466,-113.08461 84.29466,-139.17004 C 498.91466,214.79453 459.86028,101.72 414.62,101.72 Z"
+       style="display:inline;mix-blend-mode:normal;fill:#fffe7e;fill-opacity:1;filter:url(#filter1)"
+       sodipodi:nodetypes="ssszs"
+       inkscape:label="Candy Glow" /><path
        id="path48"
        class="s9"
        d="m 414.62,101.72 c -76.76,0 -139,62.3 -139,139.16 0,76.86 62.24,139.17 139,139.17 61.94,0 114.41,-40.56 132.37,-96.6 V 198.31 C 529.03,142.28 476.56,101.72 414.62,101.72 Z"
