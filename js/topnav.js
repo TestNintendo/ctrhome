@@ -29,12 +29,12 @@
     nav.appendChild(createLink("https://ctrhome.github.io/extras", "Extras"));
 
     //holiday stuff
-    const snowScript = document.createElement('script');
-    const snowDiv = document.createElement('div');
-    snowDiv.classList.add('rain');
-    snowScript.src = "https://ctrhome.github.io/js/rain.js";
-    document.body.appendChild(snowDiv);
-    document.body.appendChild(snowScript);
+    //const snowScript = document.createElement('script');
+    //const snowDiv = document.createElement('div');
+    //snowDiv.classList.add('rain');
+    //snowScript.src = "https://ctrhome.github.io/js/rain.js";
+    //document.body.appendChild(snowDiv);
+    //document.body.appendChild(snowScript);
     
 
     // Add the hamburger icon

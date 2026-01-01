@@ -1,4 +1,4 @@
-/* christmas event */
+/* christmas event 
 body.default {
     background-image: url("/img/bgrchristmas1.png"),url("/img/bgrchristmas2.png");
     background-color: #5D67A3;
@@ -8,15 +8,16 @@ body.default {
 
     .topnav {background-color: rgb(37, 113, 184)}
 }
+*/
 
-/* normal version
+/* normal version */
 body.default {
     background-image: url("https://ctrhome.github.io/img/bgr.webp"),url("https://ctrhome.github.io/img/bgr2.webp");
     background-color: #5D67A3;
     background-size: 100vmax, 100vmax;
     background-repeat: no-repeat, repeat;
 } 
-*/
+
 
 body.candyflick {
     background-image: url("https://ctrhome.github.io/img/bg-orange.jpg"),url("https://ctrhome.github.io/img/bg-orange.jpg");
